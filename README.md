@@ -3,6 +3,10 @@
 Этот проект реализует полный цикл извлечения и анализа текста с изображений из Telegram с использованием Tesseract OCR. 
 Разработан в рамках работы по курсу "Интеллектуальный анализ Web-данных".
 
+## Запуск в облаке (рекомендуется)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/telegram-ocr-web-mining-lab/blob/main/Lab_05_OCR_release1.ipynb)
+
+Нажмите кнопку выше, чтобы открыть проект в Google Colab.
 
 
 ##  Функциональность
